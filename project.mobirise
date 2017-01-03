@@ -1,0 +1,714 @@
+{
+  "settings": {
+    "name": "Living Vine World Ministries",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "directm",
+      "title": "DirectM",
+      "styling": {
+        "primaryColor": "#001a5b",
+        "secondaryColor": "#fffffd",
+        "successColor": "#1E7C3A",
+        "infoColor": "#74a3c7",
+        "warningColor": "#FFD785",
+        "dangerColor": "#FF9685",
+        "titleFont": "Oxygen",
+        "subtitleFont": "Libre Franklin",
+        "textFont": "Libre Franklin",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true
+      }
+    },
+    "versionFirst": "3.10.4",
+    "uniqCompNum": 44,
+    "versionPublish": "3.10.4",
+    "snow": "",
+    "favicon": "@PROJECT_PATH@/assets/images/living-vine-word-ministries-logo1-128x130-41.png",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": "",
+    "html_before": "",
+    "headbody": "",
+    "botbody": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Living Vine World Ministries |",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-toggler": {
+              "color": "#fffffd"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#fffffd"
+            },
+            ".link, .dropdown-item": {
+              "color": "#fffffd",
+              "font-family": "'Libre Franklin', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i"
+            },
+            ".link": {
+              "font-size": "0.8125rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.880rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "#667bb1"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "#667bb1"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#fffffd"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#001a5b"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#00164c!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#001a5b"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#fffffd",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#667bb1"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#667bb1!important"
+            },
+            ".navbar-caption": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "17px"
+            }
+          },
+          "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu1",
+          "_anchor": "menu1-0",
+          "_params": {
+            "bgColor": "#001a5b",
+            "fontSize": 0.8125,
+            "imageSize": 4,
+            "fontName": {
+              "name": "Libre Franklin",
+              "css": "'Libre Franklin', serif",
+              "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i",
+              "url": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i"
+            },
+            "fontColor": "#fffffd",
+            "fontHoverColor": "#667bb1",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/living-vine-word-ministries-logo1-125x128-98.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LIVING VINE WORLD MINISTRIES</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">WELCOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">ABOUT LVWM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">PS. &amp; MRS. CLIFTON WAGNER</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">CHURCH LEADERSHIP</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CHURCH BRANCHES</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">JOBURG BRANCH</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">DURBAN BRANCH</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">MINISTRIES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">MENS FELLOWSHIP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">WOMENS FELLOWSHIP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">YOUTH TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">VOLUNTEER</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">GIVING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">TITHES &amp; OFFERING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SPECIAL SEED</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">DONATIONS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CHURCH MEDIA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SERMONS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">YOUTUBE CHANNEL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">PICTURE GALLERY</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-text": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "60px"
+            }
+          },
+          "arrowleft": "<img src=\"@THEME_PATH@/components/_images/slider/arrow-left.png\">",
+          "arrowright": "<img src=\"@THEME_PATH@/components/_images/slider/arrow-right.png\">",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": "8",
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/living-vine-world-ministries-banner-1-2000x938-79.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "overlay": false,
+                "overlayOpacity": "0.1",
+                "contentAlign": "left",
+                "showTitle": false,
+                "title": "<b>FULL SCREEN SLIDER</b>",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">For Mac</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/living-vine-world-ministries-banner-2-2000x938-89.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "overlay": false,
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "<b>WELCOME TO LVWM</b>",
+                "showText": true,
+                "text": "We are happy you here and as you worhip with us, you will experience the warmth<br>welcome, the power of the Word and the demonstration of the Holy Spirit that are<br>truly transforming, refreshing and has the ability to break every chain of bondage.",
+                "showButtons": true,
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">LVWM Services</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#footer3-16\" data-toolbar=\"-mbrBtnMove\">For Prayers &amp; Counselling</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/living-vine-world-ministries-banner-4-2000x938-2.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "overlay": false,
+                "overlayOpacity": "0.2",
+                "contentAlign": "left",
+                "showTitle": false,
+                "title": "<b>IMAGE SLIDE</b>",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, <br>backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">For Mac</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/living-vine-world-ministries-banner-7-2000x938-93.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "overlay": false,
+                "overlayOpacity": "0.3",
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "<b>Order Our CD's</b>",
+                "showText": true,
+                "text": "Buy our purpose filled and impacted life changing<br>Living Vine World Ministries&nbsp;sermons and your life<br>will not&nbsp;remain the same again!",
+                "showButtons": true,
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#header7-k\" data-toolbar=\"-mbrBtnMove\">Order Now</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/living-vine-world-ministries-banner-5-2000x938-44.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "overlay": true,
+                "overlayOpacity": "0.5",
+                "overlayColor": "#000000",
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "<b>CELEBRATION SERVICE</b>",
+                "showText": true,
+                "text": "Come and experience the warmth&nbsp;welcome, the power of the Word and the<br>demonstration of the Holy Spirit that are&nbsp;truly transforming, refreshing and<br>has the ability to break every chain of bondage.<br><b>SUNDAYS 10H00 -12H00</b>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Special Invitation</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Sermons</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#fff",
+            "showBullets": false
+          },
+          "_anchor": "slider-i",
+          "articleLayout": false
+        },
+        {
+          "subtitle1": "Awesome",
+          "subtitle2": "Awesome",
+          "subtitle3": "Awesome",
+          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features8",
+          "_styles": {
+            ".mbr-iconfont": {
+              "color": "#001a5b",
+              "border-color": "#001a5b"
+            }
+          },
+          "_anchor": "features8-b",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "iconsBgColor": "#001a5b",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
+            "bgColor": "#fffffd",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.95,
+            "overlayColor": "#fffffd",
+            "showHeading": false,
+            "showText": true,
+            "showTitle": true,
+            "showButtons": false,
+            "showFeaturesImages": true,
+            "showFeaturesTitles": true,
+            "showFeaturesTexts": true,
+            "showFeaturesButtons": false
+          },
+          "text": "Mobirise",
+          "title": "Always on your terms",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/06.jpg"
+            },
+            "iconFont": {
+              "active": false,
+              "class": "mbr-iconfont",
+              "name": "touch",
+              "link": "https://mobirise.com",
+              "family": "MobiriseIcons"
+            }
+          },
+          "title1": "<b>Serving God</b>",
+          "text1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis eaque harum assumenda voluptas minus impedit repellendus odio, optio ab pariatur, impedit repellendus odio, optio ab pariatur,",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/07.jpg"
+            },
+            "iconFont": {
+              "active": false,
+              "class": "mbr-iconfont",
+              "name": "touch-swipe",
+              "link": "https://mobirise.com",
+              "family": "MobiriseIcons"
+            }
+          },
+          "title2": "<b>Daily Devotion</b>",
+          "text2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis eaque harum assumenda voluptas minus impedit repellendus odio, optio ab pariatur,impedit repellendus odio, optio ab pariatur,",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/08.jpg"
+            },
+            "iconFont": {
+              "active": false,
+              "class": "mbr-iconfont",
+              "name": "responsive",
+              "link": "https://mobirise.com",
+              "family": "MobiriseIcons"
+            }
+          },
+          "title3": "<b>Importance of Christianity</b>",
+          "text3": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis eaque harum assumenda voluptas minus impedit repellendus odio, optio ab pariatur,"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header7",
+          "_styles": {
+            "H3": {
+              "color": "#fffffd"
+            },
+            ".btn": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            "B": {
+              "font-size": "60px"
+            }
+          },
+          "_anchor": "header7-k",
+          "_params": {
+            "imageSize": "33",
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "containerColor1": "#001a5b",
+            "containerColor2": "#001a5b",
+            "containerColor3": "#001a5b",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/_background/header3.jpg",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/living-vine-world-ministries-banner-6-1400x887-4.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "<b>Media Centre</b>",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis eaque harum assumenda voluptas minus impedit repellendus odio, optio ab pariatur, consequuntur, laudantium ipsam. Doloremque ipsam fuga saepe odio facilis incidunt.<div><br></div>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Order Messages</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">LVWM Gallery</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">LVWM Channels</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "margin-bottom": "1rem",
+              "color": "#fff"
+            },
+            ".mbr-iconfont": {},
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_anchor": "content7-9",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/content7.jpg",
+            "bgColor": "#2d2d2d",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#2d2d2d",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Article Header",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis eaque harum assumenda voluptas minus impedit repellendus odio, optio ab pariatur, consequuntur, laudantium ipsam. Doloremque ipsam fuga saepe odio facilis incidunt.<br>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis eaque harum assumenda voluptas minus impedit repellendus odio, optio ab pariatur, consequuntur, laudantium ipsam. Doloremque ipsam fuga saepe odio facilis incidunt.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Watch Demo</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_styles": {
+            ".mbr-section-title B": {
+              "font-size": "46px",
+              "text-align": "left"
+            },
+            ".card-block P": {
+              "color": "#000000"
+            },
+            ".card-footer > div": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "autoplay": true,
+            "arrowColor": "#000000",
+            "timeout": "7",
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "slides": [
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/face1.jpg",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true
+                  }
+                },
+                "authorName": "Rebecca Johnson",
+                "authorBio": "Developer",
+                "text": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis eaque harum assumenda voluptas minus impedit repellendus odio, optio ab pariatur, consequuntur, laudantium ipsam. Doloremque ipsam fuga saepe odio facilis incidunt.&nbsp;<span style=\"background-color: transparent; font-size: 1rem; line-height: 1.5;\">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis eaque harum assumenda voluptas minus impedit&nbsp;</span></p>"
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/face2.jpg",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true
+                  }
+                },
+                "authorName": "Frank Jacobs",
+                "authorBio": "User",
+                "text": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis eaque harum assumenda voluptas minus impedit repellendus odio, optio ab pariatur, consequuntur, laudantium ipsam. Doloremque ipsam fuga saepe odio facilis incidunt. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis eaque harum assumenda voluptas minus impedit&nbsp;</p>"
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/face3.jpg",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true
+                  }
+                },
+                "authorName": "Audrey Festus",
+                "authorBio": "User",
+                "text": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis eaque harum assumenda voluptas minus impedit repellendus odio, optio ab pariatur, consequuntur, laudantium ipsam. Doloremque ipsam fuga saepe odio facilis incidunt. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis eaque harum assumenda voluptas minus impedit&nbsp;</p>"
+              },
+              {
+                "active": true,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/face3.jpg",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true
+                  }
+                },
+                "authorName": "Austin Khumalo",
+                "authorBio": "User",
+                "text": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis eaque harum assumenda voluptas minus impedit repellendus odio, optio ab pariatur, consequuntur, laudantium ipsam. Doloremque ipsam fuga saepe odio facilis incidunt. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis eaque harum assumenda voluptas minus impedit&nbsp;</p>"
+              }
+            ],
+            "showImages": true,
+            "showName": true,
+            "showBio": false,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/_baclground/msg-box3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showSubtitle": false,
+            "showBullets": true
+          },
+          "_anchor": "testimonials1-d",
+          "title": "<b>Members Testimonies</b>",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer3",
+          "_styles": {
+            ".mbr-section-text": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer3-16",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.9,
+            "overlayColor": "#fff"
+          },
+          "title1": "johannesburg LVWM BRANCH",
+          "text2": "+27(0)110-514-083",
+          "title2": "durban lvwm durban branch",
+          "text1": "+27(0)110-514-083",
+          "title3": "f0r prayer &amp; counselling&nbsp;",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Call us</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "follow1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "46px"
+            },
+            ".mbr-section-title B": {
+              "color": "#001a5b"
+            }
+          },
+          "_anchor": "follow1-15",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "showTitle": true,
+            "showText": false
+          },
+          "text": "<b>&nbsp; &nbsp; Follow us</b>",
+          "text1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, ea!",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-google\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+        },
+        {
+          "subtitle": "Get notified about new amazing products",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "subscribe1",
+          "_styles": {
+            ".form-control-label": {},
+            ".mbr-section-title": {
+              "font-size": "32px",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "subscribe1-w",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#f6f7f8",
+            "showTitle": true,
+            "showText": false
+          },
+          "title": "<b>Subscribe now for Church update</b>",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+          "form": {
+            "action": "newwinegraphics@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email Address..."
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send</a>"
+        },
+        {
+          "list": "<ul><li><a href=\"\">Bootstrap 4</a></li><li><a href=\"\">Responsive</a></li><li><a href=\"\">Web Fonts</a></li><li><a href=\"\">Unlimited Sites</a></li><li><a href=\"\">Google</a></li><li><a href=\"\">Node</a></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            ".card-text": {
+              "color": "#ffffff",
+              "font-size": "14px",
+              "text-align": "left"
+            },
+            ".card-title": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "footer1-17",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "bgColor": "#001a5b",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.4,
+            "overlayColor": "#000",
+            "columns": "4",
+            "showTitle": true
+          },
+          "title1": "<b>Faith Scripture</b>",
+          "text1": "\"That they m ay see, and know, and consider, and understand together, thta the hand of the Lord hath done this, and the Holy One of Israel hath created it.\"  Isaiah 41:20",
+          "title2": "",
+          "text2": "<br>Home<br>About LVWM<br>Ps. &amp; Mrs. Clifton Wagner<br>Church Leadership<br>Church Branchers<br>Mens Fellowship",
+          "title3": "",
+          "text3": "<br>Women Fellowship<br>Youth Fellowship<br>Chuch Services<br>Volunteer Services<br>Church Outreaches<br>Media Centre",
+          "title4": "",
+          "text4": "<br>Giving to LVWM<br>Daily Devotion<br>Church Blog<br>Social Networks<br>Contact Us<br>Sitemap<br><br><br>",
+          "copy": "(c) 2017 Living Vine World Ministries | Design by <a href=\"http://newwinegraphics.com\" target=\"_blank\" class=\"text-white\">Newwine Graphics</a>"
+        }
+      ]
+    }
+  }
+}
